@@ -21,6 +21,10 @@
 		<div class="col-lg-6">
 			<h1>Drupal Camp</h1>
 			<h2>Manila 2014</h2>
+			<div class="address">
+				<p>Sadoce, 12F Smart Tower I</p>
+				<p>Makati City, Philippines</p>
+			</div>
 		</div>
 		<div class="col-lg-6">
 			<div id="countdown"></div>
