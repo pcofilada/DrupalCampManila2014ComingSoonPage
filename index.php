@@ -25,6 +25,18 @@
 				<p>Sadoce, 12F Smart Tower I</p>
 				<p>Makati City, Philippines</p>
 			</div>
+			<div id="contacts">
+				<div class="contact">
+					<p>Gem Devanadera</p>
+					<p>Drupal Pilipinas Community Head</p>
+					<p>gemdev@drupalpilipinas</p>
+				</div>
+				<div class="contact">
+					<p>Poniel Ador</p>
+					<p>Drupal Pilipinas Marketing Head</p>
+					<p>marketing@drupalpilipinas.org</p>
+				</div>
+			</div>
 		</div>
 		<div class="col-lg-6">
 			<div id="subscribe">
