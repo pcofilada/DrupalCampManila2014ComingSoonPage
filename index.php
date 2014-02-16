@@ -21,12 +21,20 @@
 		<div class="col-lg-6">
 			<h1>Drupal Camp</h1>
 			<h2>Manila 2014</h2>
-			<div class="venue">
+			<div id="venue">
 				<p>Sadoce, 12F Smart Tower I</p>
 				<p>Makati City, Philippines</p>
 			</div>
 		</div>
 		<div class="col-lg-6">
+			<div id="subscribe">
+				<form action="http://tripbuddy.us3.list-manage1.com/subscribe/post?u=921a2981a49d1bb6aef36abf5&amp;id=9beb363f77" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+					<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Email Address" required>
+				    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+				    <div style="position: absolute; left: -5000px;"><input type="text" name="b_921a2981a49d1bb6aef36abf5_9beb363f77" value=""></div>
+					<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+				</form>
+			</div>
 			<div id="countdown"></div>
 		</div>
 	</div>
