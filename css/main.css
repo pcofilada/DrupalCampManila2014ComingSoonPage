@@ -1,102 +1,131 @@
-body .container {
-	color: #4DC1EE;
-	width: 100%;
+body {
+	color: #FFFFFF !important;
+	font: 18px 'Lato', Arial, Helvetica, sans-serif, serif !important;
 }
 
-.container h1, .container h2, .container h3 {
-    font-family: 'Droid Serif',serif;
-    font-weight: 600;
-}
-
-.container h1 {
-    font-size: 70px;
-    text-shadow: 2px 4px 6px #555555;
-}
-
-.container h2 {
-    font-size: 50px;
-    margin-right: 40px;
-    text-align: right;
-    text-shadow: 2px 4px 6px #555555;
-}
-
-.container p {
-	font-family: 'Lato', sans-serif;
-}
-
-.details {
-    background: none repeat scroll 0 0 rgba(35, 32, 32, 0.37);
-    color: #FFFFFF;
-    font-size: 18px;
-    margin-top: 55px;
-    padding: 25px;
-}
-
-#venue {
-    margin-bottom: 25px;
-}
-
-#subscribe {
-    background: none repeat scroll 0 0 rgba(35, 32, 32, 0.37);
-    color: #FFFFFF;
-    height: 275px;
-    margin-top: 35px;
-    padding: 25px;
-    text-align: center;
-}
-
-form {
-    margin: 0 auto;
-    width: 81%;
-}
-
-.email {
-    float: left;
-    font-size: 25px;
-}
-
-.button {
-    font-size: 27px;
-}
-
-form input {
-    color: #555555;
-}
-
-i {
-    color: rgba(255, 255, 255, 0.64);
-    font-size: 40px;
-    margin: 10px;
-}
-
-i:hover {
-	color: #FFFFFF;
-}
-
-#countdown {
-    margin-top: 70px;
-    text-align: center;
+.container {
+	text-align: center;
 }
 
 .countdown-section {
+    border: 8px solid rgba(255, 255, 255, 0.3);
+    border-radius: 100% 0 100% 100%;
     display: inline-block;
-    padding: 0 45px 0 0;
+    height: 142px;
+    margin: 10px;
+    padding: 10px 0 0;
+    text-align: center;
+    transform: rotate(-45deg);
+    width: 142px;
 }
 
 .countdown-amount {
     display: block;
-    font-family: 'Droind Serif',serif;
-    font-size: 120px;
-    font-weight: bold;
-    line-height: 90px;
-    text-align: center;
-    text-shadow: 2px 4px 6px #555555;
+    font-family: lato,serif;
+    font-size: 60px;
+    font-weight: 300;
 }
 
-.countdown-period {
-    font-family: 'Droid Serif',serif;
-    font-size: 30px;
-    font-style: italic;
-    text-align: center;
-    text-shadow: 2px 4px 6px #555555;
+body h1 {
+    font-size: 45px;
+    font-weight: 300;
+    text-shadow: 0 2px 3px #000000;
+}
+
+body h2 {
+    padding: 15px 0 50px;
+}
+
+.countdown-section:nth-child(2), .countdown-section:nth-child(3) {
+    margin-top: 90px;
+    vertical-align: middle;
+}
+
+.subscribe p {
+    font-weight: 300;
+    text-shadow: 0 0 2px #000000;
+}
+
+.email {
+	display: inline-block;
+	font: 200 18px 'Lato', Arial, Helvetica, sans-serif, serif;
+	font-weight: 300;
+	background: none transparent;
+	border: 1px solid #ffffff;
+	color: #ffffff;
+	outline: none;
+	line-height: 1em;
+	padding: 7px 15px;
+	width: 400px;
+	margin: 0 0 10px 0;
+	box-shadow: none;
+}
+
+.clear {
+	display: inline-block;
+}
+
+.clear .button {
+	font: 200 18px 'Lato', Arial, Helvetica, sans-serif, serif;
+	font-weight: 300;
+	border: 3px solid #fff;
+	background: none transparent;
+	padding: 5px 15px;
+	margin: 0;
+	color: #ffffff;
+	cursor: pointer;
+	outline: none 0;
+	text-transform: lowercase;
+	text-decoration: none;
+	-webkit-transition: all 0.25s ease-in-out;
+	-moz-transition: all 0.25s ease-in-out;
+	-ms-transition: all 0.25s ease-in-out;
+	-o-transition: all 0.25s ease-in-out;
+	transition: all 0.25s ease-in-out;
+}
+
+.email:focus, .email:hover {
+	outline: none;
+	border-color: #9ecaed;
+	box-shadow: 0 0 10px #9ecaed;
+}
+
+.button:hover {
+	background: none #fff;
+	color: #000;
+}
+
+.social {
+    padding-top: 10px;
+}
+
+.social div {
+    border-radius: 100px;
+    display: inline-block;
+    height: 65px;
+    width: 65px;
+    margin: 0 5px;
+	border: 1px solid #aaa;
+	-webkit-transition: all 0.25s ease-in-out;
+	-moz-transition: all 0.25s ease-in-out;
+	-ms-transition: all 0.25s ease-in-out;
+	-o-transition: all 0.25s ease-in-out;
+	transition: all 0.25s ease-in-out;
+}
+
+.social div:hover {
+	background: #FFFFFF;
+}
+
+.social div:hover i{
+	color: #555555;
+}
+
+.social div a {
+    font-size: 45px;
+}
+
+i {
+	color: #FFFFFF;
+    vertical-align: middle;
 }
