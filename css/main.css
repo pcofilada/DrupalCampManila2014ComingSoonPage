@@ -8,42 +8,47 @@ body {
 }
 
 .countdown-section {
-    border: 8px solid rgba(255, 255, 255, 0.3);
-    border-radius: 100% 0 100% 100%;
-    display: inline-block;
-    height: 142px;
-    margin: 10px;
-    padding: 10px 0 0;
-    text-align: center;
-    transform: rotate(-45deg);
-    width: 142px;
+	border: 8px solid rgba(255, 255, 255, 0.3);
+	border-radius: 100% 0 100% 100%;
+	display: inline-block;
+	height: 142px;
+	margin: 10px;
+	padding: 10px 0 0;
+	text-align: center;
+
+	-webkit-transform: rotate(-45deg);
+	-moz-transform: rotate(-45deg);
+	-o-transform: rotate(-45deg);
+	-ms-transform: rotate(-45deg);
+	transform: rotate(-45deg);
+	width: 142px;
 }
 
 .countdown-amount {
-    display: block;
-    font-family: lato,serif;
-    font-size: 60px;
-    font-weight: 300;
+	display: block;
+	font-family: lato,serif;
+	font-size: 60px;
+	font-weight: 300;
 }
 
 body h1 {
-    font-size: 45px;
-    font-weight: 300;
-    text-shadow: 0 2px 3px #000000;
+	font-size: 45px;
+	font-weight: 300;
+	text-shadow: 0 2px 3px #000000;
 }
 
 body h2 {
-    padding: 15px 0 50px;
+	padding: 15px 0 50px;
 }
 
-.countdown-section:nth-child(2), .countdown-section:nth-child(3) {
-    margin-top: 90px;
-    vertical-align: middle;
+.countdown-section:nth-child(2),.countdown-section:nth-child(3) {
+	margin-top: 90px;
+	vertical-align: middle;
 }
 
 .subscribe p {
-    font-weight: 300;
-    text-shadow: 0 0 2px #000000;
+	font-weight: 300;
+	text-shadow: 0 0 2px #000000;
 }
 
 .email {
@@ -58,6 +63,8 @@ body h2 {
 	padding: 7px 15px;
 	width: 400px;
 	margin: 0 0 10px 0;
+
+	-webkit-box-shadow: none;
 	box-shadow: none;
 }
 
@@ -77,16 +84,19 @@ body h2 {
 	outline: none 0;
 	text-transform: lowercase;
 	text-decoration: none;
+
 	-webkit-transition: all 0.25s ease-in-out;
 	-moz-transition: all 0.25s ease-in-out;
-	-ms-transition: all 0.25s ease-in-out;
 	-o-transition: all 0.25s ease-in-out;
+	-ms-transition: all 0.25s ease-in-out;
 	transition: all 0.25s ease-in-out;
 }
 
-.email:focus, .email:hover {
+.email:focus,.email:hover {
 	outline: none;
 	border-color: #9ecaed;
+
+	-webkit-box-shadow: 0 0 10px #9ecaed;
 	box-shadow: 0 0 10px #9ecaed;
 }
 
@@ -96,20 +106,21 @@ body h2 {
 }
 
 .social {
-    padding-top: 10px;
+	padding-top: 10px;
 }
 
 .social div {
-    border-radius: 100px;
-    display: inline-block;
-    height: 65px;
-    width: 65px;
-    margin: 0 5px;
+	border-radius: 100px;
+	display: inline-block;
+	height: 65px;
+	width: 65px;
+	margin: 0 5px;
 	border: 1px solid #aaa;
+
 	-webkit-transition: all 0.25s ease-in-out;
 	-moz-transition: all 0.25s ease-in-out;
-	-ms-transition: all 0.25s ease-in-out;
 	-o-transition: all 0.25s ease-in-out;
+	-ms-transition: all 0.25s ease-in-out;
 	transition: all 0.25s ease-in-out;
 }
 
@@ -117,15 +128,15 @@ body h2 {
 	background: #FFFFFF;
 }
 
-.social div:hover i{
+.social div:hover i {
 	color: #555555;
 }
 
 .social div a {
-    font-size: 45px;
+	font-size: 45px;
 }
 
 i {
 	color: #FFFFFF;
-    vertical-align: middle;
+	vertical-align: middle;
 }
