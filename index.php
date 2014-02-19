@@ -6,7 +6,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title></title>
+        <title>Drupal Camp Manila 2014</title>
         <meta name="description" content="Drupal Camp Manila 2014: Coming Soon Page">
         <meta name="viewport" content="width=device-width">
 		<title>Drupal Camp Manila 2014</title>
@@ -26,12 +26,14 @@
 		<div id="countdown"></div>
 		<div class="subscribe">
 			<p>Subscribe to our mailing list or follow us on social media to stay up to date.</p>
-			<form action="http://tripbuddy.us3.list-manage1.com/subscribe/post?u=921a2981a49d1bb6aef36abf5&amp;id=9beb363f77" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-				<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Email Address" required>
-			    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-			    <div style="position: absolute; left: -5000px;"><input type="text" name="b_921a2981a49d1bb6aef36abf5_9beb363f77" value=""></div>
-				<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-			</form>
+		
+                <form action="http://drupalpilipinas.us3.list-manage1.com/subscribe/post?u=116da25f389f077322a7cd28c&amp;id=4faf7d59f6" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;"><input type="text" name="b_116da25f389f077322a7cd28c_4faf7d59f6" value=""></div>
+	<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+               </form>
+
 		</div>
 		<div class="social">
 			<div><a href="https://www.facebook.com/DrupalPilipinas" target="_blank"><i class="fa fa-facebook"></i></a></div>
