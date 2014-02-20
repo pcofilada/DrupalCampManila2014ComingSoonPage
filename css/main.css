@@ -45,7 +45,7 @@ body h1 {
 }
 
 body h2 {
-	padding: 15px 0 50px;
+	padding: 15px 0 35px;
 }
 
 .countdown-section:nth-child(2),.countdown-section:nth-child(3) {
@@ -146,4 +146,14 @@ body h2 {
 i {
 	color: #FFFFFF;
 	vertical-align: middle;
+}
+
+.credits {
+    font-size: 12px;
+    opacity: 0.5;
+    padding-top: 5px;
+}
+
+.credits a {
+    color: #FFFFFF;
 }

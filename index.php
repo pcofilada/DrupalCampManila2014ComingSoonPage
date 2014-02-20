@@ -40,6 +40,8 @@
 			<div><a href="https://www.facebook.com/DrupalPilipinas" target="_blank"><i class="fa fa-facebook"></i></a></div>
 			<div><a href="https://twitter.com/DrupalPilipinas" target="_blank"><i class="fa fa-twitter"></i></a></div>
 		</div>
+
+		<div class="credits">Design and Develop by: <a href="http://patrickofilada.com/" target="_blank">Patrick Ofilada</a></div>
 	</div>
 	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 	<script type="text/javascript" src="js/jquery.plugin.js"></script> 
