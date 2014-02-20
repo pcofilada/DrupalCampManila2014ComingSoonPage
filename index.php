@@ -9,6 +9,8 @@
         <title>Drupal Camp Manila 2014</title>
         <meta name="description" content="Drupal Camp Manila 2014: Coming Soon Page">
         <meta name="viewport" content="width=device-width">
+    	<meta property="og:image" content="http://drupalpilipinas.org/sites/all/themes/drupalpilipinas/logo.png" />
+
 		<title>Drupal Camp Manila 2014</title>
 		<link rel="stylesheet" href="css/main.css">
 		<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
