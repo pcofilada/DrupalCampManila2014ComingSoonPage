@@ -9,7 +9,7 @@
         <title>Drupal Camp Manila 2014</title>
         <meta name="description" content="Drupal Camp Manila 2014: Coming Soon Page">
         <meta name="viewport" content="width=device-width">
-    	<meta property="og:image" content="http://drupalpilipinas.org/sites/all/themes/drupalpilipinas/logo.png" />
+    	<meta property="og:image" content="images/logo.png" />
 
 		<title>Drupal Camp Manila 2014</title>
 		<link rel="stylesheet" href="css/main.css">
@@ -21,7 +21,6 @@
     <!--[if lt IE 7]>
         <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
     <![endif]-->
-
 	<div class="container">
 		<h1>Drupal Camp Manila 2014</h1>
 		<h2><strong>Code</strong> + <strong>Community</strong> + <strong>You</strong></h2>
