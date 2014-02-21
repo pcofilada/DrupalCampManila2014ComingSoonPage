@@ -25,16 +25,15 @@
 		<h1>Drupal Camp Manila 2014</h1>
 		<h2><strong>Code</strong> + <strong>Community</strong> + <strong>You</strong></h2>
 		<div id="countdown"></div>
+		<div id="qoute">Exodus 17:15 <br />Moses built an altar and called it The LORD is my Banner.<br /> Jehovanissi</div>
 		<div class="subscribe">
 			<p>Subscribe to our mailing list or follow us on social media to stay up to date.</p>
-		
-                <form action="http://drupalpilipinas.us3.list-manage1.com/subscribe/post?u=116da25f389f077322a7cd28c&amp;id=4faf7d59f6" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
-    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;"><input type="text" name="b_116da25f389f077322a7cd28c_4faf7d59f6" value=""></div>
-	<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-               </form>
-
+            <form action="http://drupalpilipinas.us3.list-manage1.com/subscribe/post?u=116da25f389f077322a7cd28c&amp;id=4faf7d59f6" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+				<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+			    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+			    <div style="position: absolute; left: -5000px;"><input type="text" name="b_116da25f389f077322a7cd28c_4faf7d59f6" value=""></div>
+				<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+           </form>
 		</div>
 		<div class="social">
 			<div><a href="https://www.facebook.com/DrupalPilipinas" target="_blank"><i class="fa fa-facebook"></i></a></div>

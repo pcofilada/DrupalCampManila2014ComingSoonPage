@@ -45,7 +45,7 @@ body h1 {
 }
 
 body h2 {
-	padding: 15px 0 35px;
+	padding: 15px 0;
 }
 
 .countdown-section:nth-child(2),.countdown-section:nth-child(3) {
@@ -119,8 +119,8 @@ body h2 {
 .social div {
 	border-radius: 100px;
 	display: inline-block;
-	height: 65px;
-	width: 65px;
+	height: 50px;
+	width: 50px;
 	margin: 0 5px;
 	border: 1px solid #aaa;
 
@@ -140,7 +140,7 @@ body h2 {
 }
 
 .social div a {
-	font-size: 45px;
+	font-size: 35px;
 }
 
 i {
